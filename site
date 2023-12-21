@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<style>
+      body {
+				background-image: url("/vermilion-strategies/background.jpg");
+				background-attachment: fixed;
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: 25%;
+				font-family: Tahoma, Verdana, Geneva, sans-serif;
+			}
+			div.info-box {
+				position: fixed;
+				top: 30%;
+				background: #00000077;
+				color: white;
+				padding: 2.5em;
+				opacity: 90%;
+			}
+			h1 {
+				font-size: 4em;
+				font-weight: normal;
+				margin-top: 0;
+				margin-bottom: 0.5em;
+			}
+			p {
+				font-size: 1.5em;
+				margin-bottom: 0;
+			}
+			a {
+				color: inherit;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="info-box">
+			<h1>Vermilion Strategies</h1>
+			<p><a href="mailto:inquire@vermilionstrategies.com">inquire@vermilionstrategies.com</a></p>
+		</div>
+	</body>
+</html>
